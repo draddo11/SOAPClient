@@ -1,0 +1,7 @@
+com\example\config\soap\api\config\SoapConfig.class
+com\example\springsoapwsclient\loaneligblitiy\ObjectFactory.class
+com\example\client\SoapClient.class
+com\example\springsoapwsclient\loaneligblitiy\CustomerRequest.class
+com\example\springsoapwsclient\loaneligblitiy\package-info.class
+com\example\soapclient\soapclientws\SoapclientWsApplication.class
+com\example\springsoapwsclient\loaneligblitiy\Acknowledgement.class
